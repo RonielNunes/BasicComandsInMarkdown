@@ -130,3 +130,10 @@ Exemplo: para retorna basta colocar `return 0;`
 [link do google](https://www.google.com/)
 ```
 [link do google](https://www.google.com/)
+
+# Imagens
+
+```
+![img]("https://img.freepik.com/vetores-gratis/imagens-animadas-abstratas-neon-lines_23-2148344065.jpg?size=626&ext=jpg")
+```
+![img]("https://img.freepik.com/vetores-gratis/imagens-animadas-abstratas-neon-lines_23-2148344065.jpg?size=626&ext=jpg")

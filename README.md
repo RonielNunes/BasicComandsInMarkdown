@@ -31,6 +31,14 @@ Visualizando: **Texto em negrio**.
 ```
 *itálico* ou _itálico_
 
+# Comentários
+
+```
+<!--
+      <Text input>
+-->
+```
+
 
 # Marcadores
 

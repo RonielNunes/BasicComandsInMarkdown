@@ -42,6 +42,8 @@ Visualizando: **Texto em negrio**.
 
 # Marcadores
 
+Para ter subs marcadores, basta colocar eles identados.
+
 ```Markdown
 * marcados em lista
 * java

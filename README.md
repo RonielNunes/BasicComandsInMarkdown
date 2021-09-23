@@ -152,6 +152,14 @@ Exemplo: para retorna basta colocar `return 0;`
 
 Link com os rank dos melhores editores no ano de 2021: https://www.oberlo.com/blog/markdown-editors
 
+## Visual Studio Code
+
+Extensões:
+- Markdown Preview Enhanced
+- Markdown All in One
+
+Comando para visualizar: `CTRAL + SHIFT + V`
+
 ## Mac
 Melhores editores de Mac Markdown:
 

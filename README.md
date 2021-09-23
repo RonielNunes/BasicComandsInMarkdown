@@ -158,7 +158,7 @@ Extensões:
 - Markdown Preview Enhanced
 - Markdown All in One
 
-Comando para visualizar: `CTRAL + SHIFT + V`
+Comando para visualizar: `CTRL + SHIFT + V`
 
 ## Mac
 Melhores editores de Mac Markdown:

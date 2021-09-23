@@ -1,6 +1,6 @@
-# Basic Comands In Markdown
+# **Basic Comands In Markdown**
 
-# Títulos:
+# **Títulos**:
 
 ```Markdown
 # Títulos 1
@@ -19,19 +19,19 @@ Visualizando
 ###### Títulos 6
 
 
-# Texto em Negrito
+# **Texto em Negrito**
 ```Markdown
 **Negrito**
 ```
 Visualizando: **Texto em negrio**.
 
-# Texto em itálico
+# **Texto em itálico**
 ```Markdown
 *itálico* ou _itálico_
 ```
 *itálico* ou _itálico_
 
-# Comentários
+# **Comentários**
 
 ```
 <!--
@@ -40,7 +40,7 @@ Visualizando: **Texto em negrio**.
 ```
 
 
-# Marcadores
+# **Marcadores**
 
 Para ter subs marcadores, basta colocar eles identados.
 
@@ -87,7 +87,7 @@ Visualizando:
 2. Ruby
 3. SQL
 
-# Tabela
+# **Tabela**
 
 ```Markdown
 nome   | idade
@@ -104,7 +104,7 @@ A      | 12
 B      | 13
  
 
-# Código
+# **Código**
 
 ```Markdown
   <```><nome da linguagem>
@@ -120,21 +120,21 @@ int main(){
 }
 ```
 
-# Código em partes textuais
+# **Código em partes textuais**
 
 ```Markdown
 ` code `
 ```
 Exemplo: para retorna basta colocar `return 0;`
 
-# Citações
+# **Citações**
 
 ```Markdown
 > citação
 ```
 > Citação em markdown.
 
-# Links
+# **Links**
 
 ```
 [link do google](https://www.google.com/)
@@ -147,3 +147,37 @@ Exemplo: para retorna basta colocar `return 0;`
 ![img](https://img.freepik.com/vetores-gratis/imagens-animadas-abstratas-neon-lines_23-2148344065.jpg?size=626&ext=jpg)
 ```
 ![img](https://img.freepik.com/vetores-gratis/imagens-animadas-abstratas-neon-lines_23-2148344065.jpg?size=626&ext=jpg)
+
+# **Editores para arquivos markdown**
+
+Link com os rank dos melhores editores no ano de 2021: https://www.oberlo.com/blog/markdown-editors
+
+## Mac
+Melhores editores de Mac Markdown:
+
+- [Byword](https://apps.apple.com/us/app/byword/id420212497?mt=12)
+- [Ulysses](https://apps.apple.com/app/ulysses/id1225570693?l=en&mt=12)
+- [MacDown](https://macdown.uranusjr.com/)
+
+## Windows
+Melhores editores do Windows Markdown:
+
+- [ghostwriter](https://wereturtle.github.io/ghostwriter/)
+- [Typora](https://typora.io/#windows)
+
+## Linux
+Melhores editores de Markdown do Linux:
+
+- [Remarkable](https://remarkableapp.github.io/linux.html)
+- [Haroopad](http://pad.haroopress.com/user.html#download)
+- [UberWriter](https://getblueprint.io/)
+
+## Online
+Melhores Editores de Markdown Online:
+
+- [HackMD](https://hackmd.io/)
+- [StackEdit](https://stackedit.io/)
+- [Dilling](https://dillinger.io/)
+
+
+

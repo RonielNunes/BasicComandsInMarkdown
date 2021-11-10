@@ -1,5 +1,37 @@
 # **Basic Comands In Markdown**
 
+Este repositório contém informações sobre como executar algumas funções para a criação de um arquivo com o formato de markdown.
+
+## Sumary
+
+[Icone](https://github.com/RonielNunes/BasicComandsInMarkdown/blob/main/README.md#icones)
+
+[Links Verticais](https://github.com/RonielNunes/BasicComandsInMarkdown/blob/main/README.md#links-verticais)
+
+[Títulos](https://github.com/RonielNunes/BasicComandsInMarkdown/blob/main/README.md#t%C3%ADtulos)
+
+[Texto em Negrito](https://github.com/RonielNunes/BasicComandsInMarkdown/blob/main/README.md#texto-em-negrito)
+
+[Texto em itálico](https://github.com/RonielNunes/BasicComandsInMarkdown/blob/main/README.md#texto-em-it%C3%A1lico)
+
+[Comentários](https://github.com/RonielNunes/BasicComandsInMarkdown/blob/main/README.md#coment%C3%A1rios)
+
+[Marcadores](https://github.com/RonielNunes/BasicComandsInMarkdown/blob/main/README.md#marcadores)
+
+[Tabela](https://github.com/RonielNunes/BasicComandsInMarkdown/blob/main/README.md#tabela)
+
+[Código](https://github.com/RonielNunes/BasicComandsInMarkdown/blob/main/README.md#c%C3%B3digo)
+
+[Código em partes textuais](https://github.com/RonielNunes/BasicComandsInMarkdown/blob/main/README.md#c%C3%B3digo-em-partes-textuais)
+
+[Citações](https://github.com/RonielNunes/BasicComandsInMarkdown/blob/main/README.md#cita%C3%A7%C3%B5es)
+
+[Links](https://github.com/RonielNunes/BasicComandsInMarkdown/blob/main/README.md#links)
+
+[Imagens](https://github.com/RonielNunes/BasicComandsInMarkdown/blob/main/README.md#imagens)
+
+[Editores para arquivos markdown](https://github.com/RonielNunes/BasicComandsInMarkdown/blob/main/README.md#editores-para-arquivos-markdown)
+-----------------------------------------------------
 # **Icones**:
 * [Link](https://emojipedia.org/github/)
 

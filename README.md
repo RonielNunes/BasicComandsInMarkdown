@@ -1,5 +1,8 @@
 # **Basic Comands In Markdown**
 
+# **Icones**:
+* [Link](https://emojipedia.org/github/)
+
 # **Títulos**:
 
 ```Markdown

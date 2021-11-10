@@ -13,13 +13,13 @@ Visualizando
 # **Links verticais**
 
 ```Markdown
-[Editores para arquivos markdown](https://github.com/RonielNunes/BasicComandsInMarkdown#-Editores-para-arquivos-markdown)
+[Editores para arquivos markdown](#Editores-para-arquivos-markdown)
 ```
 > Obs: espaços são substituidos por -. 
 
 Visualizando
 
-[Editores para arquivos markdown](https://github.com/RonielNunes/BasicComandsInMarkdown#-Editores-para-arquivos-markdown)
+[Editores para arquivos markdown](#Editores-para-arquivos-markdown)
 
 # **Títulos**:
 

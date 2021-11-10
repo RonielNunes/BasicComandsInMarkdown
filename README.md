@@ -13,12 +13,11 @@ Visualizando
 # **Links verticais**
 
 ```Markdown
-[Linux](https://github.com/RonielNunes/BasicComandsInMarkdown#-Linux)
+[Editores para arquivos markdown](https://github.com/RonielNunes/BasicComandsInMarkdown#-Editores para arquivos markdown)
 ```
 
 Visualizando
-
-[Linux](https://github.com/RonielNunes/BasicComandsInMarkdown#-Linux)
+[Editores para arquivos markdown](https://github.com/RonielNunes/BasicComandsInMarkdown#-Editores para arquivos markdown)
 
 # **Títulos**:
 

@@ -3,6 +3,13 @@
 # **Icones**:
 * [Link](https://emojipedia.org/github/)
 
+```Markdwn
+[:earth_americas: Google](https://www.google.com/)
+```
+Visualizando
+[:earth_americas: Google](https://www.google.com/)
+
+
 # **Títulos**:
 
 ```Markdown

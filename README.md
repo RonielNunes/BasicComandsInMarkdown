@@ -21,6 +21,8 @@ Visualizando
 
 [Editores para arquivos markdown](#Editores-para-arquivos-markdown)
 
+[mac](##-Mac)
+
 # **Títulos**:
 
 ```Markdown

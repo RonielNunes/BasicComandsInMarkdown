@@ -7,8 +7,18 @@
 [:earth_americas: Google](https://www.google.com/)
 ```
 Visualizando
+
 [:earth_americas: Google](https://www.google.com/)
 
+# **Links verticais**
+
+```Markdown
+[Linux](https://github.com/RonielNunes/BasicComandsInMarkdown#-Linux)
+```
+
+Visualizando
+
+[Linux](https://github.com/RonielNunes/BasicComandsInMarkdown#-Linux)
 
 # **Títulos**:
 
